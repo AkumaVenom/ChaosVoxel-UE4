@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\UnrealVoxel.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{2B0AAFF6-CDFB-4B1A-AF9F-169739233790}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\UnrealVoxel.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\UnrealVoxelEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{5D1F361D-1B58-48E7-B565-2FE236FA7412}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\UnrealVoxel">
+			<UniqueIdentifier>{26A29A66-7BC2-4B73-BCCB-64AA4FE54793}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\UnrealVoxel\MyGameInstance.cpp">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UnrealVoxel\MyGameInstance.h">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UnrealVoxel\SimplexNoiseLibrary.cpp">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UnrealVoxel\SimplexNoiseLibrary.h">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UnrealVoxel\StandardSlateWidget.cpp">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UnrealVoxel\StandardSlateWidget.h">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\UnrealVoxel\UnrealVoxel.Build.cs">
+			<Filter>Source\UnrealVoxel</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\UnrealVoxel\UnrealVoxel.cpp">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UnrealVoxel\UnrealVoxel.h">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UnrealVoxel\VoxelActor.cpp">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UnrealVoxel\VoxelActor.h">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UnrealVoxel\VoxelAdministration.cpp">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UnrealVoxel\VoxelAdministration.h">
+			<Filter>Source\UnrealVoxel</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

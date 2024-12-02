@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealVoxel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\MyGameInstance.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\SimplexNoiseLibrary.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\StandardSlateWidget.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\UnrealVoxel.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\VoxelActor.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\VoxelAdministration.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\MyGameInstance.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\SimplexNoiseLibrary.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\UnrealVoxel.init.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\VoxelActor.gen.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\VoxelAdministration.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealVoxel\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\PC\Documents\Unreal Projects\UnrealVoxel 0.5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UnrealVoxel.lib"
