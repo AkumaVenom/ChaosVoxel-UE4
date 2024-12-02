@@ -27,3 +27,4 @@
 *.pch filter=lfs diff=lfs merge=lfs -text
 *.phc filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+*.ipch filter=lfs diff=lfs merge=lfs -text
