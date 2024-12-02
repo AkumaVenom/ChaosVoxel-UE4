@@ -18,3 +18,5 @@ Trees & Foilage
 C++ chunk generation
 
 ========================================================
+
+Project Size: Approx 3.5 GB
