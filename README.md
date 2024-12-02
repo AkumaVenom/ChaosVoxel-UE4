@@ -15,7 +15,7 @@ Game Saves & Loads
 
 Trees & Foilage
 
-C++ chunk generation
+C++ fast chunk generation
 
 ========================================================
 
